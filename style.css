@@ -6,9 +6,6 @@
 }
 
 body {
-
- 
-}
       /*vertical-align: middle;*/
       /*background-color: #ddd;*/
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -19,16 +16,14 @@ body {
 
       }
 html{
-  background: url("trees.jpg");
+  background: url("images/trees.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  font-family: 'Lobster', cursive;
 
 }
 
   h1 {
-  font-family: 'Lobster', cursive;
     text-align: center;
     font-size: 60px;
     margin-bottom: 20px;
@@ -47,7 +42,7 @@ html{
     display: inline-block;
     text-align: center;
     float:center;
-
+    
   }
 
   #zip {
@@ -64,7 +59,7 @@ html{
     margin: 20px 20px 20px 0px;
 
   }
-
+  
   #returnedHikes {
       padding: 50px;
       background: rgba(0,0,0,0.5);
@@ -84,7 +79,7 @@ html{
     background: rgba(255,255,255,.40);
     padding: 15px;
     border-radius: 15px;
-
+    
   }
 
   .spacer {
