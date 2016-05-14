@@ -7,8 +7,7 @@
 
 body {
 
-  .css-selector {
-  font-family: 'Lobster', serif;
+ 
 }
       /*vertical-align: middle;*/
       /*background-color: #ddd;*/
@@ -20,10 +19,11 @@ body {
 
       }
 html{
-  background: url("images/trees.jpg");
+  background: url("trees.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  font-family: 'Lobster', cursive;
 
 }
 
