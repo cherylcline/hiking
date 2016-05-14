@@ -11,7 +11,7 @@ body {
 }
       /*vertical-align: middle;*/
       /*background-color: #ddd;*/
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-family: 'Lobster', cursive;
       font-size: 18px;
       /*background: url("zion.jpg");*/
       color: #1F1F2E;
@@ -28,7 +28,7 @@ html{
 }
 
   h1 {
-     font-family: 'Lobster', cursive;
+  
     text-align: center;
     font-size: 60px;
     margin-bottom: 20px;
